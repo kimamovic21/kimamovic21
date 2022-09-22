@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kerim Imamovic 👦</h1>
 <h3 align="center">Welcome to my Github account</h3>
-<img align="center" width="400" height="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76113c26b246ec9e17af04b478336bb0af261453d167&rid=giphy.gif&ct=g" alt="coding">
+<img align="center" width="500" height="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76113c26b246ec9e17af04b478336bb0af261453d167&rid=giphy.gif&ct=g" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimamovic21&label=Profile%20views&color=0e75b6&style=flat" alt="kimamovic21" /> </p>
 
