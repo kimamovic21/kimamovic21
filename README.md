@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/k_imamovic" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="k_imamovic" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://ba.linkedin.com/in/kerim-imamovic-261918165" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://ba.linkedin.com/in/kerim-imamovic-261918165" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kerim-imamovic-261918165" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://ba.linkedin.com/in/kerim-imamovic-261918165" height="30" width="40" /></a>
 <a href="https://fb.com/imamovic.kerim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imamovic.kerim" height="30" width="40" /></a>
 <a href="https://instagram.com/k_imamovic" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_imamovic" height="30" width="40" /></a>
 </p>
