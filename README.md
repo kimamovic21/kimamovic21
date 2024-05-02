@@ -6,24 +6,24 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimamovic21" alt="kimamovic21" /></a> </p>
 
-- 🌱 I’m currently learning React.js and Node.js
+- 🌱 I’m currently learning **MERN Stack**
 
-- 📜 Recently I successfully completed React.js Beginner and Intermediate level courses
+- 📜 Recently I successfully completed React.js and Node.js (Beginner and Intermediate level courses)
 
-- 👨‍💻 In the future, I would like to learn **MERN Stack**
+- 👨‍💻 In the future, I would like to work as **Web Developer**
    
-- 🤝 I am open to cooperation for frontend web projects
+- 🤝 I am open to cooperation for web develepment projects
 
 - 📫 How to reach me: **imamovic.kerim@gmail.com**
 
-- 📏 In 2022 I finished the **AutoCAD Core Concepts Course in Sarajevo**
+- 📏 In 2021 I finished the **AutoCAD Core Concepts Course in Sarajevo**
 
 - ⚡ More about me: **I love to watch and play football ⚽ and also read books 📚**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/k_imamovic" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="k_imamovic" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kerim-imamovic-261918165" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kerimimamovic/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kerimimamovic/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kerimimamovic/" height="30" width="40" /></a>
 <a href="https://fb.com/imamovic.kerim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imamovic.kerim" height="30" width="40" /></a>
 <a href="https://instagram.com/k_imamovic" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_imamovic" height="30" width="40" /></a>
 </p>
